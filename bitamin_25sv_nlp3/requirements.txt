@@ -1,0 +1,7 @@
+tqdm
+pandas
+torch
+transformers
+accelerate
+PyMuPDF
+datasets
